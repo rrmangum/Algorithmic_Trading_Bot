@@ -1,5 +1,3 @@
-# Trading_Bot_9000
-
 ## Problem Statement
 
 Trading cryptocurrencies can potentially be an extremely lucrative means of investment. It is a fairly new, disruptive investment vehicle and there are promises of great rewards.
